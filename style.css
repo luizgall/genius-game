@@ -1,0 +1,115 @@
+	body{ 
+		margin:0;
+		padding:0;
+		min-height:100%;
+		background-color:black;
+		font-family: Monospace;
+	}
+	
+	h1{
+width:100%;
+text-decoration: none;}
+	
+	header{
+		color:white;
+		position:relative;
+        width:500px;
+		left:30%;
+		font-size:40px;	
+
+	
+	}
+
+    main{
+        
+        position: relative;
+        left: -10%;
+        
+    }
+	.btn {
+		background-color: white;
+		width: 150px;
+		border-radius:10%;
+		text-align: center;
+		font-weight: bold;
+		font-size:40px;
+		position: relative;
+		top:300px;
+		left:50%;
+	}
+
+	#simone{
+
+		position:absolute;	
+		left:45%;
+		
+}
+	#white{
+		width:120px;
+		height:120px;
+		position: absolute;
+		top:50px;
+		left:60px;
+
+	
+		background-color:white;
+}
+
+    
+	.square{
+		width:100px;
+		height:100px;
+		border-style:solid;
+        border-width: 10px;
+		border-color:black;
+		margin:0px 100px;
+			
+	}
+
+	#red{	
+		background-color:red;
+		position: relative;
+		left:-100px;
+		border-radius:50% 0 0 0;
+
+	}
+	#green{
+		background-color:green;
+		position: relative;
+		top: -120px;
+		left:20px;
+		border-radius:0 50% 0 0;
+
+
+	}
+	#blue{
+		background-color:blue;
+		position: relative;
+		top: -98px;
+		left:20px;
+		border-radius:0 0 50% 0;
+
+	}
+	#yellow{
+		background-color:yellow;
+		position: relative;
+		left: -100px;
+		top: -218px;
+		border-radius:0 0 0 50%;
+
+	
+	}
+    .light{
+	
+	border-color: rgba(255, 240, 216, 0.8);
+	background-color: #ffb7b7:
+
+}
+
+	#turn{
+	position:relative;
+	color:white;
+	top:300px;
+	left:50%;
+	font-size:30px;
+}
